@@ -4,4 +4,4 @@ venv
 .replit
 __pycache__
 replit.nix
-.pyc
+*.pyc
